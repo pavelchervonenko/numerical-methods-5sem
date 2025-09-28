@@ -1,0 +1,14 @@
+# === Gradle build ===
+.gradle/
+build/
+*/build/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === Gradle wrapper cache (опционально, если хочешь меньше repo) ===
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
